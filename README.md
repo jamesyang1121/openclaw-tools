@@ -19,3 +19,6 @@ curl -fsSL https://raw.githubusercontent.com/jamesyang1121/openclaw-tools/main/u
 ```powershell
 irm https://raw.githubusercontent.com/jamesyang1121/openclaw-tools/main/uninstall_openclaw_windows.ps1 | iex
 ```
+
+**Windows (BAT，双击运行):**
+下载 [uninstall_openclaw_windows.bat](https://raw.githubusercontent.com/jamesyang1121/openclaw-tools/main/uninstall_openclaw_windows.bat) 后双击运行
